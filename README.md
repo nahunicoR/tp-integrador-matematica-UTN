@@ -6,7 +6,7 @@ Trabajo Integrador Matemática y Programación de la Tecnicatura Universitaria e
 - **María Soledad Rege**
 - **Brian Emanuel Rios**
 - **Mauricio Osvaldo Rios**
-- **Juan Pablo Rivero Albornoz**
+- **Juan Pablo  Rivero Albornoz**
 - **Nahuel Nicolás Riveros Valgañón**
 
 # 📄 Descripción del Proyecto

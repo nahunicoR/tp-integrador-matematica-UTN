@@ -1,4 +1,4 @@
-## tp-integrador-matematica-UTN
+## Trabajo Práctico Integrador
 Trabajo Integrador Matemática y Programación de la Tecnicatura Universitaria en Programación
 # Descripción del Proyecto
 Este trabajo práctico integrador consiste en un programa interactivo desarrollado en Python que convierte números decimales a binarios y viceversa. El mismo acepta binarios de 8, 16, 32, 64 y 128 bits y utiliza el sistema de complemento a dos para representar correctamente los números negativos.
